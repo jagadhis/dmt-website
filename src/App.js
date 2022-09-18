@@ -1,9 +1,10 @@
 import './App.css';
+import Maintanence from './Pages/Maintanence';
 
 function App() {
   return (
     <div className="App">
-       Website Under Maintanence
+     <Maintanence />
     </div>
   );
 }
