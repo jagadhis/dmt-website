@@ -3,7 +3,7 @@ import React from 'react'
 const Maintanence = () => {
   return (
     <div>
-        <p>Under Maintanence</p>
+        <h1>Under Maintanence</h1>
     </div>
   )
 }

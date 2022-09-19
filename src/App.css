@@ -1,5 +1,7 @@
 .App {
-  width: 400px;
+  display: flex;
+  flex-direction: row;
+  width: 200px;
     height: 100px;
     font-size: xx-large;
     position: absolute;
