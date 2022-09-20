@@ -4,7 +4,7 @@ import Maintanence from './Pages/Maintanence';
 function App() {
   return (
     <div className="App">
-     <Maintanence />
+      <Maintanence />
     </div>
   );
 }
