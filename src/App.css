@@ -1,21 +1,18 @@
-.App {
-  display: flex;
-  flex-direction: row;
-  width: 200px;
-    height: 100px;
-    font-size: xx-large;
-    position: absolute;
-    top:0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
-    font-family: Roboto, Helvetica, cursive;
-    font-style: italic;
-    
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
 }
-
-
-
-
-
