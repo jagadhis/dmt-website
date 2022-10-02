@@ -68,32 +68,32 @@
     "Services": [
       {
         "icon": "fa fa-wordpress",
-        "name": "Lorem ipsum dolor",
+        "name": "Website Designing",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
       },
       {
         "icon": "fa fa-cart-arrow-down",
-        "name": "Consectetur adipiscing",
+        "name": "E-commerce Website",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
       },
       {
         "icon": "fa fa-cloud-download",
-        "name": "Lorem ipsum dolor",
+        "name": "Logo Designing",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
       },
       {
         "icon": "fa fa-language",
-        "name": "Consectetur adipiscing",
+        "name": "Digital Marketing",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
       },
       {
         "icon": "fa fa-plane",
-        "name": "Lorem ipsum dolor",
+        "name": "Social Media Management",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
       },
       {
         "icon": "fa fa-pie-chart",
-        "name": "Consectetur adipiscing",
+        "name": "Google Ads Management",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
       }
     ],
