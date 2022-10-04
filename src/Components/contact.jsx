@@ -141,6 +141,11 @@ export const Contact = (props) => {
                       <i className='fa fa-youtube'></i>
                     </a>
                   </li>
+                  <li>
+                    <a href={props.data ? props.data.youtube : '/'}>
+                      <i className='fa fa-instagram'></i>
+                    </a>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -151,7 +156,7 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             &copy; 2022 Digital Meister Technologies. Developed by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
+            <a href='https://github.com/jagadhis' rel='nofollow'>
               Jagadhiswaran Devaraj
             </a>
           </p>
