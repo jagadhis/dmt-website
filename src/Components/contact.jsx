@@ -142,7 +142,7 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
+                    <a href="https://www.instagram.com/meistertechnologies/" target="_b;lank">
                       <i className='fa fa-instagram'></i>
                     </a>
                   </li>
