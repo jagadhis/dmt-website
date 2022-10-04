@@ -165,7 +165,6 @@ hr {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
   background: linear-gradient(to right, #8E0E00 0%, #1F1C18 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
@@ -246,6 +245,7 @@ header .intro-text {
 /* Features Section */
 #features {
   background: linear-gradient(to right, #8E0E00 0%, #1F1C18 100%);
+  color: #fff;
 }
 #features i.fa {
   font-size: 38px;
@@ -257,7 +257,6 @@ header .intro-text {
   padding: 30px 0;
   border-radius: 50%;
   background: linear-gradient(to right, #8E0E00 0%, #1F1C18 100%);
-
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 /* About Section */
