@@ -206,8 +206,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
-  background: linear-gradient(to right, #8E0E00 0%, #1F1C18 100%);
+  background: url(../img/bg2.jpg) center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
