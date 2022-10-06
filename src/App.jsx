@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Navigation } from "./Components/navigation";
 import { Header } from "./Components/header";
-import { Features } from "./Components/features";
+// import { Features } from "./Components/features";
 import { About } from "./Components/about";
 import { Services } from "./Components/services";
 // import { Gallery } from "./Components/gallery";
@@ -27,7 +27,7 @@ const App = () => {
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
+      {/* <Features data={landingPageData.Features} /> */}
       <About data={landingPageData.About} />
       <Services data={landingPageData.Services} />
       {/* <Gallery data={landingPageData.Gallery}/>

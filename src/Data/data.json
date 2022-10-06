@@ -58,32 +58,32 @@
       {
         "icon": "fa fa-wordpress",
         "name": "Website Designing",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        "text": "We worry about web-designing, you handle the rest of your business."
       },
       {
         "icon": "fa fa-cart-arrow-down",
         "name": "E-commerce Website",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        "text": "We make your ecommerce store customers feel like they are shopping in a real store."
       },
       {
         "icon": "fa fa-cloud-download",
         "name": "Logo Designing",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        "text": "There are three responses to a piece of design—yes, no, and WOW! Wow is the one to aim for."
       },
       {
         "icon": "fa fa-language",
         "name": "Digital Marketing",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        "text": "A brand is no longer what we tell the consumer it is – it is what consumers tell each other it is."
       },
       {
         "icon": "fa fa-plane",
         "name": "Social Media Management",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        "text": "These days, people want to learn before they buy, be educated instead of pitched."
       },
       {
         "icon": "fa fa-pie-chart",
         "name": "Google Ads Management",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        "text": "It’s much easier to double your business by doubling your conversion rate than doubling your traffic."
       }
     ],
     "Testimonials": [
@@ -146,8 +146,7 @@
       "email": "info@meistertechnologies.co",
       "facebook": "fb.com",
       "twitter": "twitter.com",
-      "youtube": "youtube.com",
-      "instagram":""
+      "youtube": "youtube.com"
     },
     "Features": [
       {
