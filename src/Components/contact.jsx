@@ -155,7 +155,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2022 Digital Meister Technologies. Developed by{' '}
+            &copy; 2024 Digital Meister Technologies. Developed by{' '}
             <a href='https://github.com/jagadhis' rel='nofollow'>
               Jagadhiswaran Devaraj
             </a>
